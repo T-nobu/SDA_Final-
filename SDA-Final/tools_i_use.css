@@ -1,0 +1,428 @@
+/*
+	@name tools_i_use
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1280px; width: 1280px; height: 832px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__tools_i_use {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 832px;
+	background:rgba(255,255,255,1);
+}
+
+
+#ellipse_10 {
+	opacity:0.36000001430511;
+	top: -834px;
+	left: -1661px;
+	width: 2500px;
+	height: 2500px;
+	-ms-border-radius: 1250px / 1250px;
+	-o-border-radius: 1250px / 1250px;
+	-moz-border-radius: 1250px / 1250px;
+	-webkit-border-radius: 1250px / 1250px;
+	border-radius: 1250px / 1250px;
+	-ms-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-o-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-webkit-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-moz-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	box-shadow:0px 4px 39px 1px rgb(254, 220, 255);
+	background:rgb(254, 220, 255);
+}
+
+#component_10 {
+	top: 130px;
+	left: 894px;
+	width: 651px;
+	height: 571px;
+}
+
+#_bg__component_10 {
+	top: 0px;
+	left: 0px;
+	width: 651px;
+	height: 571px;
+	background:#;
+}
+
+
+#ellipse_8 {
+	top: 104px;
+	left: 204px;
+	width: 362.88px;
+	height: 362.88px;
+	-ms-border-radius: 181.44px / 181.44px;
+	-o-border-radius: 181.44px / 181.44px;
+	-moz-border-radius: 181.44px / 181.44px;
+	-webkit-border-radius: 181.44px / 181.44px;
+	border-radius: 181.44px / 181.44px;
+	
+	-ms-transform:rotate(-89.58deg);
+	-o-transform:rotate(-89.58deg);
+	-webkit-transform:rotate(-89.58deg);
+	-moz-transform:rotate(-89.58deg);
+	transform:rotate(-89.58deg);
+	background:rgba(164,206,255,1);
+}
+
+
+#ellipse_9 {
+    opacity: 1;
+    top: 18px;
+    left: 119px;
+    width: 531px;
+    height: 531px;
+    -ms-border-radius: 265.5px / 265.5px;
+    -o-border-radius: 265.5px / 265px;
+    -moz-border-radius: 265.5px / 265.5px;
+    -webkit-border-radius: 265.5px / 265.5px;
+    border-radius: 265.5px / 265.5px;
+    border: 1px solid #000000; /* Sets a 1-pixel solid black border */
+}
+
+
+#_home {
+	top: 256px;
+	left: 283px;
+	width: 119.8px;
+	height: 74.8px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_ellipse_11 {
+	top: 20px;
+	left: 270px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_16 {
+	top: 511px;
+	left: 270px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#ellipse_15 {
+	top: 439px;
+	left: 163px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_14 {
+	top: 331px;
+	left: 108px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_13 {
+	top: 204px;
+	left: 108px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_12 {
+	top: 94px;
+	left: 163px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_about_me {
+	opacity:0.4;
+	top: 0px;
+	left: 163px;
+	width: 123.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#_experience {
+	opacity:0.4;
+	top: 85px;
+	left: 43px;
+	width: 129.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_education {
+	opacity:0.4;
+	top: 204px;
+	left: 0px;
+	width: 119.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_skills {
+	opacity:0.4;
+	top: 331px;
+	left: 40px;
+	width: 79.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#tools {
+	top: 439px;
+	left: 101px;
+	width: 79.6px;
+	height: 55.6px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_contact {
+	opacity:0.5;
+	top: 531px;
+	left: 183px;
+	width: 97.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#component_11 {
+	top: 174px;
+	left: 147px;
+	width: 452px;
+	height: 435px;
+}
+
+#_bg__component_11 {
+	top: 0px;
+	left: 0px;
+	width: 452px;
+	height: 435px;
+	background:#;
+}
+
+
+#tools_ek1 {
+	top: 0px;
+	left: 189px;
+	width: 103.8px;
+	height: 74.8px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_9 {
+	top: 109px;
+	left: 0px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#rectangle_10 {
+	top: 109px;
+	left: 184px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#rectangle_11 {
+	top: 109px;
+	left: 368px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#rectangle_12 {
+	top: 306px;
+	left: 0px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#rectangle_13 {
+	top: 306px;
+	left: 184px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#rectangle_14 {
+	top: 306px;
+	left: 368px;
+	width: 80px;
+	height: 80px;
+}
+
+
+#vs_code {
+	top: 395px;
+	left: 368px;
+	width: 108.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#leetcode {
+	top: 395px;
+	left: 184px;
+	width: 111.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#figma {
+	top: 198px;
+	left: 12px;
+	width: 85.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#github {
+	top: 198px;
+	left: 189px;
+	width: 95.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#python {
+	top: 199px;
+	left: 376px;
+	width: 91.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#kaggle {
+	top: 395px;
+	left: 5px;
+	width: 89.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

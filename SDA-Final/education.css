@@ -1,0 +1,478 @@
+/*
+	@name education
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1280px; width: 1280px; height: 832px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__education {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 832px;
+	background:rgba(255,255,255,1);
+}
+
+
+#ellipse_10 {
+	opacity:0.36000001430511;
+	top: -834px;
+	left: -1661px;
+	width: 2500px;
+	height: 2500px;
+	-ms-border-radius: 1250px / 1250px;
+	-o-border-radius: 1250px / 1250px;
+	-moz-border-radius: 1250px / 1250px;
+	-webkit-border-radius: 1250px / 1250px;
+	border-radius: 1250px / 1250px;
+	-ms-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-o-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-webkit-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-moz-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	box-shadow:0px 4px 39px 1px rgb(254, 220, 255);
+	background:rgb(254, 220, 255);
+}
+
+#component_6 {
+	top: 130px;
+	left: 890px;
+	width: 656px;
+	height: 571px;
+}
+
+#_bg__component_6 {
+	top: 0px;
+	left: 0px;
+	width: 656px;
+	height: 571px;
+	background:#;
+}
+
+
+#ellipse_8 {
+	top: 104px;
+	left: 209px;
+	width: 362.88px;
+	height: 362.88px;
+	-ms-border-radius: 181.44px / 181.44px;
+	-o-border-radius: 181.44px / 181.44px;
+	-moz-border-radius: 181.44px / 181.44px;
+	-webkit-border-radius: 181.44px / 181.44px;
+	border-radius: 181.44px / 181.44px;
+	
+	-ms-transform:rotate(-89.58deg);
+	-o-transform:rotate(-89.58deg);
+	-webkit-transform:rotate(-89.58deg);
+	-moz-transform:rotate(-89.58deg);
+	transform:rotate(-89.58deg);
+	background:rgba(164,206,255,1);
+}
+
+
+#ellipse_9 {
+    opacity: 1;
+    top: 18px;
+    left: 119px;
+    width: 531px;
+    height: 531px;
+    -ms-border-radius: 265.5px / 265.5px;
+    -o-border-radius: 265.5px / 265px;
+    -moz-border-radius: 265.5px / 265.5px;
+    -webkit-border-radius: 265.5px / 265.5px;
+    border-radius: 265.5px / 265.5px;
+    border: 1px solid #000000; /* Sets a 1-pixel solid black border */
+}
+
+
+#_home {
+	top: 256px;
+	left: 288px;
+	width: 119.8px;
+	height: 74.8px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_ellipse_11 {
+	top: 20px;
+	left: 275px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_12 {
+	top: 94px;
+	left: 168px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_16 {
+	top: 511px;
+	left: 275px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_15 {
+	top: 439px;
+	left: 168px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_14 {
+	top: 331px;
+	left: 113px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#ellipse_13 {
+	top: 204px;
+	left: 113px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_about_me {
+	opacity:0.8;
+	top: 0px;
+	left: 168px;
+	width: 123.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_experience {
+	opacity:0.8;
+	top: 85px;
+	left: 48px;
+	width: 129.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#education {
+	top: 199px;
+	left: 0px;
+	width: 133.6px;
+	height: 55.6px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_skills {
+	opacity:0.4;
+	top: 331px;
+	left: 45px;
+	width: 79.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_tools {
+	opacity:0.4;
+	top: 439px;
+	left: 106px;
+	width: 71.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_contact {
+	opacity:0.4;
+	top: 531px;
+	left: 188px;
+	width: 97.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#component_7 {
+	top: 150px;
+	left: 144px;
+	width: 572px;
+	height: 516px;
+}
+
+#_bg__component_7 {
+	top: 0px;
+	left: 0px;
+	width: 572px;
+	height: 516px;
+	background:#;
+}
+
+
+#ellipse_17 {
+	top: 137px;
+	left: 0px;
+	width: 25px;
+	height: 25px;
+	-ms-border-radius: 12.5px / 12.5px;
+	-o-border-radius: 12.5px / 12.5px;
+	-moz-border-radius: 12.5px / 12.5px;
+	-webkit-border-radius: 12.5px / 12.5px;
+	border-radius: 12.5px / 12.5px;
+	background:rgba(0,0,0,1);
+}
+
+#ellipse_18 {
+	top: 289px;
+	left: 0px;
+	width: 25px;
+	height: 25px;
+	-ms-border-radius: 12.5px / 12.5px;
+	-o-border-radius: 12.5px / 12.5px;
+	-moz-border-radius: 12.5px / 12.5px;
+	-webkit-border-radius: 12.5px / 12.5px;
+	border-radius: 12.5px / 12.5px;
+	background:rgba(0,0,0,1);
+}
+
+
+
+
+
+
+#ellipse_19 {
+	top: 441px;
+	left: 0px;
+	width: 25px;
+	height: 25px;
+	-ms-border-radius: 12.5px / 12.5px;
+	-o-border-radius: 12.5px / 12.5px;
+	-moz-border-radius: 12.5px / 12.5px;
+	-webkit-border-radius: 12.5px / 12.5px;
+	border-radius: 12.5px / 12.5px;
+	background:rgba(0,0,0,1);
+}
+
+
+#education_ek1 {
+	top: 0px;
+	left: 200px;
+	width: 175.8px;
+	height: 74.8px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#elementary_education {
+	top: 433px;
+	left: 47px;
+	width: 260.6px;
+	height: 105.6px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#samtse_lower_secondary_school {
+	top: 484px;
+	left: 52px;
+	width: 260.4px;
+	height: 37.4px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#karma_academy {
+	opacity:0.6;
+	top: 330px;
+	left: 52px;
+	width: 144.4px;
+	height: 37.4px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#feb_2010__dec_2020 {
+	opacity:0.6;
+	top: 447px;
+	left: 482px;
+	width: 99.4px;
+	height: 67.4px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#feb_2021__dec_2022 {
+	opacity:0.6;
+	top: 292px;
+	left: 483px;
+	width: 98.4px;
+	height: 67.4px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#higher_secondary_education {
+	top: 273px;
+	left: 47px;
+	width: 327.6px;
+	height: 55.6px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#b_e__software_engineering {
+	top: 127px;
+	left: 47px;
+	width: 314.6px;
+	height: 55.6px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#jul_2023__till_date {
+	opacity:0.6;
+	top: 137px;
+	left: 482px;
+	width: 99.4px;
+	height: 67.4px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#line_1 {
+	top: 153px;
+	left: 13px;
+	width: 1px;
+	height: 300.5px;
+}
+
+
+#college_of_science_and_technology__bhutan {
+	opacity:0.6;
+	top: 322px;
+	left: 196px;
+	width: 325.4px;
+	height: 37.4px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */

@@ -1,0 +1,386 @@
+/*
+	@name my_contact
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1280px; width: 1280px; height: 832px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#_bg__my_contact {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 832px;
+	background:rgba(255,255,255,1);
+}
+
+
+#ellipse_10 {
+	opacity:0.36000001430511;
+	top: -834px;
+	left: -1661px;
+	width: 2500px;
+	height: 2500px;
+	-ms-border-radius: 1250px / 1250px;
+	-o-border-radius: 1250px / 1250px;
+	-moz-border-radius: 1250px / 1250px;
+	-webkit-border-radius: 1250px / 1250px;
+	border-radius: 1250px / 1250px;
+	-ms-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-o-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-webkit-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	-moz-box-shadow:0px 4px 39px 1px rgba(255,238,255,1);
+	box-shadow:0px 4px 39px 1px rgb(254, 220, 255);
+	background:rgb(254, 220, 255);
+}
+
+#component_13 {
+	top: 129px;
+	left: 898px;
+	width: 651px;
+	height: 576px;
+}
+
+#_bg__component_13 {
+	top: 0px;
+	left: 0px;
+	width: 651px;
+	height: 576px;
+	background:#;
+}
+
+
+#ellipse_8 {
+	top: 104px;
+	left: 204px;
+	width: 362.88px;
+	height: 362.88px;
+	-ms-border-radius: 181.44px / 181.44px;
+	-o-border-radius: 181.44px / 181.44px;
+	-moz-border-radius: 181.44px / 181.44px;
+	-webkit-border-radius: 181.44px / 181.44px;
+	border-radius: 181.44px / 181.44px;
+	
+	-ms-transform:rotate(-89.58deg);
+	-o-transform:rotate(-89.58deg);
+	-webkit-transform:rotate(-89.58deg);
+	-moz-transform:rotate(-89.58deg);
+	transform:rotate(-89.58deg);
+	background:rgba(164,206,255,1);
+}
+
+
+#ellipse_9 {
+    opacity: 1;
+    top: 18px;
+    left: 119px;
+    width: 531px;
+    height: 531px;
+    -ms-border-radius: 265.5px / 265.5px;
+    -o-border-radius: 265.5px / 265px;
+    -moz-border-radius: 265.5px / 265.5px;
+    -webkit-border-radius: 265.5px / 265.5px;
+    border-radius: 265.5px / 265.5px;
+    border: 1px solid #000000; /* Sets a 1-pixel solid black border */
+}
+
+
+#_home {
+	top: 256px;
+	left: 283px;
+	width: 119.8px;
+	height: 74.8px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_ellipse_11 {
+	top: 20px;
+	left: 270px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#ellipse_16 {
+	top: 511px;
+	left: 270px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_15 {
+	top: 439px;
+	left: 163px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_14 {
+	top: 331px;
+	left: 108px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_13 {
+	top: 204px;
+	left: 108px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+
+#_ellipse_12 {
+	top: 94px;
+	left: 163px;
+	width: 40px;
+	height: 40px;
+	-ms-border-radius: 20px / 20px;
+	-o-border-radius: 20px / 20px;
+	-moz-border-radius: 20px / 20px;
+	-webkit-border-radius: 20px / 20px;
+	border-radius: 20px / 20px;
+	background:rgba(164,206,255,1);
+}
+
+#_about_me {
+	opacity:0.4;
+	top: 0px;
+	left: 163px;
+	width: 100.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+#_bg___about_me_ek1 {
+    top: 0px;
+    left: 173px; /* Move 10 pixels to the right from the original position in #_about_me */
+    width: 50px;
+    height: 40px;
+    background: #; /* Background color placeholder */
+}
+
+#about_me_ek2 {
+    opacity: 0.4;
+    top: 0px;
+    left: 173px; /* Move 10 pixels to the right from the original position in #_about_me */
+    width: 123.2px;
+    height: 49.2px;
+    overflow: hidden;
+    font-family: Rancho;
+    font-size: 32px;
+    text-align: left;
+    color: #000000;
+}
+
+
+#_experience {
+	opacity:0.4;
+	top: 85px;
+	left: 43px;
+	width: 129.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_education {
+	opacity:0.4;
+	top: 204px;
+	left: 0px;
+	width: 119.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_skills {
+	opacity:0.4;
+	top: 331px;
+	left: 40px;
+	width: 79.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_tools {
+	opacity:0.4;
+	top: 439px;
+	left: 101px;
+	width: 71.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#contact {
+	top: 531px;
+	left: 183px;
+	width: 108.6px;
+	height: 55.6px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 36px;
+	text-align: left;
+	color:#000000;
+}
+
+#component_12 {
+	top: 179px;
+	left: 226px;
+	width: 360px;
+	height: 349px;
+}
+
+#_bg__component_12 {
+	top: 0px;
+	left: 0px;
+	width: 360px;
+	height: 349px;
+	background:#;
+}
+
+
+#contact_ek1 {
+	top: 0px;
+	left: 136px;
+	width: 142.8px;
+	height: 74.8px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 48px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_6 {
+	top: 122px;
+	left: 9px;
+	width: 49px;
+	height: 53px;
+}
+
+
+#rectangle_7 {
+	top: 212px;
+	left: 0px;
+	width: 67px;
+	height: 52px;
+}
+
+
+#__915_17443006 {
+	top: 130px;
+	left: 95px;
+	width: 192.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_02230309_cst_rub_edu_bt {
+	top: 215px;
+	left: 95px;
+	width: 289.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_8 {
+	top: 289px;
+	left: 4px;
+	width: 60px;
+	height: 60px;
+}
+
+
+#https___github_com_t_nobu {
+	top: 300px;
+	left: 95px;
+	width: 282.2px;
+	height: 49.2px;
+	overflow: hidden;
+	font-family: Rancho;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
